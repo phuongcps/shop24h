@@ -1,0 +1,62 @@
+.filterHeader {
+    display: block;
+    margin: 20px 0;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  
+  .filterList > li {
+    margin-bottom: 20px;
+    list-style-type : none 
+  }
+  
+  .filterToggleBox {
+    display: none;
+  }
+  
+  .box {
+    padding: 20px;
+  }
+  
+  .groupCheckbox {
+    text-align: left;
+  }
+
+  .groupCheckbox input {
+    cursor: pointer;
+  }
+
+  .groupCheckbox label {
+    padding-left: 10px;
+  }
+  
+  .nameFilter {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+    
+  .nameFilter input {
+    width: 100%;
+    outline: none;
+    padding: 5px;
+  }
+  
+  .priceRange {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .priceRange span {
+    flex-grow: 1;
+    text-align: center;
+    margin: 0 10px;
+  }
+  
+  .priceRange input {
+    width: 40%;
+    outline: none;
+    padding: 5px;
+  }
+  
