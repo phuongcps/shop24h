@@ -17,7 +17,7 @@
 3. Deploy : Vercel
 
 ## Hướng phát triển tương lai
-    - Đăng ký thành viên (Firebase)
-    - Gửi email khi mua hàng thành công
-    - Chương trình khách hàng thân thiết
+- Đăng ký thành viên (Firebase)
+- Gửi email khi mua hàng thành công
+- Chương trình khách hàng thân thiết
  
